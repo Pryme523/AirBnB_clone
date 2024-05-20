@@ -1,1 +1,1 @@
-This is a directory in which i attempt to clonethe airbnb website using the cmd console as my frinten
+This is repository in which i try to clone the airbnb web application
